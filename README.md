@@ -1,4 +1,4 @@
-# Project-17: Continuous Delivery for Docker Containers
+#  Continuous Delivery for Docker Containers
 
 [*Project Source*](https://www.udemy.com/course/devopsprojects/?src=sac&kw=devops+projects)
 
