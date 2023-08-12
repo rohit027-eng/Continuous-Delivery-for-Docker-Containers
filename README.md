@@ -6,23 +6,13 @@
 
 ## Pre-requisites
 
-* Kubernetes setup with kops from Project-15
-* Jenkins, Nexus and Sonar server setup from Project-5
+* Jenkins, Nexus and Sonar server setup 
 * DockerHub user account
 * GitHub account
 * Slack account
 
-_Friendly reminders:_
 
-* I have completed these projects under my "20 Days 20 DevOps Projects" challenge.
-* Projects named as Project-1 thru Project-20 as part of this challenge
-* I have been using same Jenkins, Nexus and SonarQube servers from Project-5 and kops server from Project-14.
-* This project cannot be completed without having same setup. 
-* Make sure you configure jenkins credentials, global tool and system with same credential names used in Jenkinsfile.
-* Make sure you have necessary tools installed as mentioned in previous projects.
-* You may need to update Sonar webhook and Github webhook with new url.
-* You may need new Token for integrations.
-GOOD LUCK!
+
 
 ### Step-1: Jenkins, Sonar and Docker Integration
 
